@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+.headerCenter {
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  margin: auto;
+}
+
+.leftSideColumn {
+  flex: 1;
+}
+
+.rightSideColumn {
+  flex: 3;
+}
+
+.rightSideContainerColumnLayout {
+  display: flex;
+  flex-direction: column;
+}
+
+.selectedCitySection {
+  flex: 1;
+}
+.cityWeatherSection {
+  flex: 1;
+}
+
+.forecastSection {
+  flex: 1;
+}
+
+.weatherCardContainerRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.weatherCard {
+  padding: 5px;
+  color: white;
+  background-color: blue;
+  opacity: 30%;
+  width: 100px;
+  height: 125px;
+  border-radius: 12%;
+}
+
