@@ -15,7 +15,6 @@ body {
   flex-direction: row;
   width: 80%;
   margin: auto;
-  border: solid red 1px;
 }
 
 .leftSideColumn {
@@ -35,7 +34,6 @@ body {
   flex: 1;
 }
 .cityWeatherSection {
-  border: solid red 1px;
   flex: 1;
 }
 
@@ -47,7 +45,6 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  border: yellow solid 2px;
 }
 
 .weatherCard {
@@ -60,32 +57,3 @@ body {
   border-radius: 12%;
 }
 
-#hello2 {
-  
-  top:215px;
-  left:550px;
-  font-weight: bold;
-  font-size:24px;
-}
-
-#hello3 {
-  
-  left:140px;
-}
-
-#hello4 {
-  
-  left:380px;
-}
-#hello5 {
-  
-  left:620px;
-}
-#hello6 {
-  
-  left:860px;
-}
-#hello7 {
-  
-  left:1100px;
-}
