@@ -12,6 +12,9 @@
 * WHEN I click on a city in the search history
 * THEN I am again presented with current and future conditions for that city
 
+https://psurer.github.io/weather-dashboard/
+
 https://github.com/psurer/weather-dashboard
+
 ![screen shot](./screenshot.png)
 
